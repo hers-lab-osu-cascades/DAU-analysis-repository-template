@@ -18,7 +18,15 @@ functions used by multiple scripts.
 
 This template comes with: `download_NPS_data_store.R` which allows user to download published data from irma into the data folder. 
 
+## File Naming Convention
 
-- `00_[name].R` - [description]
-- `functions_[topic].R` - helper functions for [topic]. Formatted for pulling 
-  into an R package if needed in the future.
+Scripts follow a descriptive naming convention using lowercase and underscores:
+
+`[order]_[descriptive_title].R`
+
+| Type | Example |
+|------|---------|
+| Numbered workflow | `00_download_reformat_data.R` |
+| Standalone | `download_NPS_data_store.R` |
+| Shared functions | `functions_power_analysis.R` |
+
