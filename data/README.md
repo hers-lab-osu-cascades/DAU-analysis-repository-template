@@ -1,6 +1,8 @@
 # Data
 
-Place raw files into the **raw folder** before running analyses. Raw data files are not committed to this repository by default. NPS published data can be downloaded via scripts or manually at [NPS Data Store](https://irma.nps.gov/DataStore/). If manually downloaded, the files should be saved in a folder named after the reference number (i.e., data/raw/[referencenumber][data files]). 
+Place raw files into the `data/` folder before running analyses. Raw data files 
+are not committed to this repository by default. NPS published data can be 
+downloaded via scripts or manually at [NPS Data Store](https://irma.nps.gov/DataStore/).
 
 *Processed files may or may not be saved, folder available if user wishes to save work.*
 
