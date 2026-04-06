@@ -2,9 +2,9 @@
 
 Place outputs related to the project that may be used for information sharing, publications, or particularly cool. 
 
-File types that can go in here include: `.jpg`, `.png`, `.csv`, .docx (small files, photos, diagrams, tables)  
-File types that could go in here, if they're small and necessary for the project: `.xlsx`  
-File types that **should not** be pushed due to file size/file complexity: `.html`, `.accdb`, `.shp`, `.tif`  
+* File types that can go in here include: `.jpg`, `.png`, `.csv`, .docx (small files, photos, diagrams, tables)  
+* File types that could go in here, if they're small and necessary for the project: `.xlsx`  
+* File types that **should not** be pushed due to file size/file complexity: `.html`, `.accdb`, `.shp`, `.tif`  
 
 When in doubt about file size, keep it under ~5 MB. GitHub starts to complain above 50 MB and will block files over 100 MB.
 
