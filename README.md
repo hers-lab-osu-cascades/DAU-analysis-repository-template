@@ -16,7 +16,7 @@
 - `data/` - raw data, never modified, likely pulled from Irma (for NPS projects)
 - `data/processed/` - reformatted or processed dataframes from scripts 
 - `scripts/` - see scripts/README.md
-- `outputs/` - figures and tables
+- `outputs/` - figures, tables, csv or small excel files (please do not push STRIDe HTML files)
 
 ## Notes
 [Any additional project-specific notes]
